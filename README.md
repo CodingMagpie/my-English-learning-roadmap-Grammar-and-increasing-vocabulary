@@ -19,7 +19,7 @@
 * [ego4u](https://www.ego4u.com/) --> [English Pool of Exercises](https://www.ego4u.com/en/cram-up/grammar/exercises)
 
 * [ai roadmap generator](https://ai-roadmap.com/roadmap/y7u7fn6). Remember
-* [chatgpt-prompts-for-language-learning](https://www.learnprompt.org/chatgpt-prompts-for-language-learning/), [ChatGPT Prompts for Language Learners](https://myenglishdomain.com/chatgpt-prompts-for-language-learners/). Lets make own list later on
+* [chatgpt-prompts-for-language-learning](https://www.learnprompt.org/chatgpt-prompts-for-language-learning/), [ChatGPT Prompts for Language Learners](https://myenglishdomain.com/chatgpt-prompts-for-language-learners/). Lets make own list with prompts later on
 * [grammarly - Your Complete Guide to English Grammar](https://www.grammarly.com/grammar?utm_source=github&utm_medium=CodingMagpie/my_English_roadmap)
 
 ### Udemy courses I choose from:
