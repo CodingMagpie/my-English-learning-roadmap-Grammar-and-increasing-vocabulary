@@ -1,7 +1,7 @@
 * 18 GitHub public reps: [learn-english](https://github.com/topics/learn-english)
 * [ego4u](https://www.ego4u.com/) --> [English Pool of Exercises](https://www.ego4u.com/en/cram-up/grammar/exercises)
 * [ai roadmap generator](https://ai-roadmap.com/roadmap/y7u7fn6)
-[grammarly - Your Complete Guide to English Grammar](https://www.grammarly.com/grammar?utm_source=github&utm_medium=CodingMagpie/my_English_roadmap)
+* [grammarly - Your Complete Guide to English Grammar](https://www.grammarly.com/grammar?utm_source=github&utm_medium=CodingMagpie/my_English_roadmap)
 
 
 
