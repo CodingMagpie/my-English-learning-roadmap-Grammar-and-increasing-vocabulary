@@ -2,11 +2,11 @@
 ### Set goals:
 #### Short-term:
 - make learning process more **fun** and **exiting**, so I dont _use much will power to learn new things_.
-
 - pick up a few sourses of information and just focus on them  
-- 1st milestone. Spend 300 hours on learning english, to become a "dungeon master".
-- study grammar, because it`s a just mess in my head right now.
-- increase amount of words I know, and that I use. 
+
+  - study grammar with chosen course and practise, because it`s a just mess in my head right now.   
+  - increase amount of words I know, and that I use.
+  - milestone to accomplish. Spend 300 hours on learning english, to become a "dungeon master".
 
 #### Long-term:
 - make english as my 3rd "native" language and use it 70% of time
