@@ -9,6 +9,7 @@
     - use Anki, or any other program
     - create own cards based on materials you learn
   - milestone to accomplish. Spend 300 hours on learning english, to become a "dungeon master".
+  - create learning project in my database and put information from learning there. 
 
 #### Long-term:
 - make english as my 3rd "native" language and use it 70% of time
