@@ -4,8 +4,10 @@
 - make learning process more **fun** and **exiting**, so I dont _use much will power to learn new things_.
 - pick up a few sourses of information and just focus on them  
 
-  - study grammar with chosen course and practise, because it`s a just mess in my head right now.   
-  - increase amount of words I know, and that I use.
+  - study grammar with chosen course and practise, because it`s a just mess in my head right now.   100% time: 20% get information/ 20% analyse information/ 60% practice (maybe even with chatGPT)
+  - increase amount of words I know, and that I use:
+    - use Anki, or any other program
+    - create own cards based on materials you learn
   - milestone to accomplish. Spend 300 hours on learning english, to become a "dungeon master".
 
 #### Long-term:
