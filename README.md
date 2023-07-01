@@ -5,7 +5,7 @@
 
 - pick up a few sourses of information and just focus on them  
 - 1st milestone. Spend 300 hours on learning english, to become a "dungeon master".
-- - study grammar, because it`s a just mess in my head right now.
+- study grammar, because it`s a just mess in my head right now.
 - increase amount of words I know, and that I use. 
 
 #### Long-term:
@@ -33,10 +33,10 @@
 [Free Language Courses for Ukrainians](https://theeducationalequalityinstitute.org/language-courses/)
 
 #### Milestones:  (2h atm.)
-- [] 50 hours - slave 
-- [] 100 hours - college boy
-- [] 300 hours - perfomance artist
-- [] 500 hours - leatherman
-- [] 750 hours - jabrony
-- [] 1000 hours - Billy
-- [] 1500 hours - Dungeon Master
+- [ ] 50 hours - slave 
+- [ ] 100 hours - college boy
+- [ ] 300 hours - perfomance artist
+- [ ] 500 hours - leatherman
+- [ ] 750 hours - jabrony
+- [ ] 1000 hours - Billy
+- [ ] 1500 hours - Dungeon Master
