@@ -36,11 +36,11 @@
 [Free Language Courses for Ukrainians](https://theeducationalequalityinstitute.org/language-courses/)
 
 #### Milestones:  (2h atm.)
-- [ ] 50 hours - slave 
-- [ ] 100 hours - college boy
-- [ ] 300 hours - perfomance artist
-- [ ] 500 hours - leatherman
-- [ ] 750 hours - jabrony
+- [ ] 50 hours - Jabroni  
+- [ ] 100 hours - slave
+- [ ] 300 hours - college boy
+- [ ] 500 hours - perfomance artist
+- [ ] 750 hours - leatherman
 - [ ] 1000 hours - Billy
 - [ ] 1500 hours - Dungeon Master
 
