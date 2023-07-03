@@ -8,3 +8,5 @@ Log:
 | 2023.07.x  | - | - | - | - | - |
 | 2023.07.x  | - | - | - | - | - |
 | 2023.07.x  | - | - | - | - | - |
+| 2023.07.03  | 30 min | - | - | - | count programming courses on English  |
+| 2023.07.02  | 30 min | - | - | - | count programming courses on English |
