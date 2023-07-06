@@ -13,7 +13,8 @@ Log:
 
 
 Options, just for 15 minutes:
-1) continue learning programming
-2) Open [course](https://www.udemy.com/course/ultimate-english-grammar-course-master-english-grammar/learn/lecture/13466858#overview)https://www.udemy.com/course/ultimate-english-grammar-course-master-english-grammar/learn/lecture/13466858#overview) and continue.
-3) Open Anki on desktop
-4) try to read [book](https://books.google.com.ua/books/about/Do_Hard_Things.html?id=cTREEAAAQBAJ&printsec=frontcover&source=kp_read_button&hl=en&newbks=1&newbks_redir=0&gboemv=1&ovdme=1&redir_esc=y&authuser=0#v=onepage&q&f=false)?
+1) continue learning programming + where you can practice grammar lessons on material.
+2) You can google for excerises for subjects you learn and solidify your knowleadge. 
+3) Open [course]([https://www.udemy.com/course/ultimate-english-grammar-course-master-english-grammar/learn/lecture/13466858#overview) and continue with section4.
+5) Open Anki on desktop
+6) try to read [book](https://books.google.com.ua/books/about/Do_Hard_Things.html?id=cTREEAAAQBAJ&printsec=frontcover&source=kp_read_button&hl=en&newbks=1&newbks_redir=0&gboemv=1&ovdme=1&redir_esc=y&authuser=0#v=onepage&q&f=false)?
